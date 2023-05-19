@@ -9,7 +9,7 @@ const CategoryMenu = ({ categories }) => {
         <CategoryItem key={category.id} category={category} />
       ))}
     </div>
-  );
+  ); 
 }; 
 
 export default CategoryMenu;
