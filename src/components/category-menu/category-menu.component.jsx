@@ -10,6 +10,6 @@ const CategoryMenu = ({ categories }) => {
       ))}
     </div>
   );
-};
+}; 
 
 export default CategoryMenu;
